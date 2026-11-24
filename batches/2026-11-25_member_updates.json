@@ -1,0 +1,320 @@
+{
+ "presentationId": "1qZEM9sDxgwwQuqquN8LP4MYvnsG8vgX2DJ_vYT2HChQ",
+ "basedOnRevisionId": "rMCDB3vHzegxsA",
+ "note": "執行前必須重新讀取主簡報，確認每個 objectId 仍存在且內容仍是舊版，並以最新 revisionId 作為 writeControl.requiredRevisionId。楊瀞儀頁的文字在群組內，尚未納入；高懷萱、葉維中需用 Chrome 匯入投影片。",
+ "requests": [
+  {
+   "deleteText": {
+    "objectId": "he02e732bb1fe039_7_18",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "he02e732bb1fe039_7_18",
+    "insertionIndex": 0,
+    "text": "1. AI內容/商學院/媒體網紅 合作\n2. 尋求 發展社群成長專家"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "SLIDES_API586296259_94",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "SLIDES_API586296259_94",
+    "insertionIndex": 0,
+    "text": "1. AI內容/商學院/媒體網紅 合作\n2. 尋求 發展社群成長專家"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "he02e732bb1fe039_7_19",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "he02e732bb1fe039_7_19",
+    "insertionIndex": 0,
+    "text": "1. 新取得Anthropic 折扣供應七折\n2. IBM 資訊安全 Vault 加密包戶"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "SLIDES_API586296259_95",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "SLIDES_API586296259_95",
+    "insertionIndex": 0,
+    "text": "1. 新取得Anthropic 折扣供應七折\n2. IBM 資訊安全 Vault 加密包戶"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "he02e732bb1fe039_4_19",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "he02e732bb1fe039_4_19",
+    "insertionIndex": 0,
+    "text": "1.汽車配件製造公司\n2.半導體廠務工程公司(上市)\n3.機器人公司\n4.建設公司(上市)\n5.眼睛保養設備公司"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "SLIDES_API586296259_121",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "SLIDES_API586296259_121",
+    "insertionIndex": 0,
+    "text": "1.汽車配件製造公司\n2.半導體廠務工程公司(上市)\n3.機器人公司\n4.建設公司(上市)\n5.眼睛保養設備公司"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "hc9d8e59f33509ff_11_19",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "hc9d8e59f33509ff_11_19",
+    "insertionIndex": 0,
+    "text": "1. 有房子需要增貸轉貸需求\n2. 企業主有企金需求"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "hc9d8e59f33509ff_39_1859",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "hc9d8e59f33509ff_39_1859",
+    "insertionIndex": 0,
+    "text": "1. 有房子需要增貸轉貸需求\n2. 企業主有企金需求"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "hc9d8e59f33509ff_11_20",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "hc9d8e59f33509ff_11_20",
+    "insertionIndex": 0,
+    "text": "1.弱電系統：監視器安裝/架設\n2.3c系統：辦公室電腦/網路/電話遷移安裝"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "hc9d8e59f33509ff_39_1860",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "hc9d8e59f33509ff_39_1860",
+    "insertionIndex": 0,
+    "text": "1.弱電系統：監視器安裝/架設\n2.3c系統：辦公室電腦/網路/電話遷移安裝"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "he02e732bb1fe039_2_19",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "he02e732bb1fe039_2_19",
+    "insertionIndex": 0,
+    "text": "1.IPO 輔導券商\n2.食品技師"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "SLIDES_API586296259_146",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "SLIDES_API586296259_146",
+    "insertionIndex": 0,
+    "text": "1.IPO 輔導券商\n2.食品技師"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "h75f074a4f7348a8b_0_680",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "h75f074a4f7348a8b_0_680",
+    "insertionIndex": 0,
+    "text": "1. 興櫃餐飲、環保公司財務長\n2. 生技IR、PR顧問\n3. 生技BD顧問\n4. 一堆創投公司"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "hc9d8e59f33509ff_39_869",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "hc9d8e59f33509ff_39_869",
+    "insertionIndex": 0,
+    "text": "1. 興櫃餐飲、環保公司財務長\n2. 生技IR、PR顧問\n3. 生技BD顧問\n4. 一堆創投公司"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "h75f074a4f7348a8b_0_681",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "h75f074a4f7348a8b_0_681",
+    "insertionIndex": 0,
+    "text": "1.上市櫃公司殼\n2.興櫃無塵室設備公司4800張老股媒合中\n3.未上市生技公司300張老股媒合中"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "hc9d8e59f33509ff_39_870",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "hc9d8e59f33509ff_39_870",
+    "insertionIndex": 0,
+    "text": "1.上市櫃公司殼\n2.興櫃無塵室設備公司4800張老股媒合中\n3.未上市生技公司300張老股媒合中"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "h74bf7f1f7a42ffbe_12_19",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "h74bf7f1f7a42ffbe_12_19",
+    "insertionIndex": 0,
+    "text": "1. 新竹關西可20人開會的空間\n2. 有工廠設計實績的建築師"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "SLIDES_API586296259_16",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "SLIDES_API586296259_16",
+    "insertionIndex": 0,
+    "text": "1. 新竹關西可20人開會的空間\n2. 有工廠設計實績的建築師"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "h74bf7f1f7a42ffbe_12_20",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "h74bf7f1f7a42ffbe_12_20",
+    "insertionIndex": 0,
+    "text": "1.泰國海外不動產的投資機會\n2.桃園、台南工業區土地投資機會\n3.達利建設南部厲害的業務主管"
+   }
+  },
+  {
+   "deleteText": {
+    "objectId": "SLIDES_API586296259_17",
+    "textRange": {
+     "type": "ALL"
+    }
+   }
+  },
+  {
+   "insertText": {
+    "objectId": "SLIDES_API586296259_17",
+    "insertionIndex": 0,
+    "text": "1.泰國海外不動產的投資機會\n2.桃園、台南工業區土地投資機會\n3.達利建設南部厲害的業務主管"
+   }
+  },
+  {
+   "replaceAllText": {
+    "containsText": {
+     "text": "大量3C用品的客戶名單可以一併轉售",
+     "matchCase": true
+    },
+    "replaceText": "百萬3C用品的客戶名單售出",
+    "pageObjectIds": [
+     "h6286b851584c1bba_22_0",
+     "SLIDES_API586296259_181"
+    ]
+   }
+  }
+ ]
+}
