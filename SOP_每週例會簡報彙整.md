@@ -102,3 +102,12 @@
 - 有人把檔放錯資料夾（例：高懷萱資料夾內有兩份標題是「楊必勝」的範本）→ 以內容為準。
 - 會員自填編號常是 `NO.000` 或錯號 → 以主簡報／分會名冊編號為準。
 - 主簡報 80MB+，用文字讀取比用匯出 PDF 快得多。
+
+## 附錄：用 Google Slides 連接器直接改字（2026-11-25 實測可行）
+
+- 適用：主簡報已有該會員頁、只是內容更新。只改「本週我要／本週我有」等文字框，版面不動。
+- 步驟：`read_presentation`（mask：`slides(objectId,pageElements(objectId,shape(text…),elementGroup(children(…))))`）→ 找會員頁的文字框 objectId（兩份都要找）→ `deleteText ALL` + `insertText`，帶 `writeControl.requiredRevisionId`。
+- 有些頁面的文字框包在群組裡（例：楊瀞儀），mask 要加 `elementGroup.children`。
+- 例會前夜常有人同時編輯，revision 鎖會一直失敗 → 改用只含 `replaceAllText` 的批次（整句比對＋`pageObjectIds` 限定頁面），不用 revision 鎖也不會改錯地方。
+- 寫完一定回讀比對＋看縮圖（`read_slide_page_thumbnail`）確認沒有溢出。
+- 跨檔新增頁面（新會員、整頁圖片）仍然只能用 Chrome「匯入投影片」。
